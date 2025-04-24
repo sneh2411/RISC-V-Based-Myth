@@ -1,7 +1,9 @@
 # RISC-V based MYTH Workshop
 A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hours) Workshop, offered by for VLSI System Design (VSD) and Redwood EDA. In a short span of 5-days, the basic RISC-V ISA was studied & a simple RISC-V core with base instruction set was implemented. Under the software section, the programming languages that have been used are C, Assembly language and some Pseudo codes. The RISC-V CPU Core has been designed with the help of Transaction Level Verilog(TL-Verilog) in addition with the Makerchip IDE Platform. Daywise details are given below.
 
-## Day 1 : RISC-V ISA & GNU compiler toolchain  
+## Day 1 : RISC-V ISA & GNU compiler toolchain 
+![Introduction](https://github.com/sneh2411/RISC-V-Based-Myth/blob/f765950e465c86ba00eef1e9cb441ff8340d7fc5/App_to_Hardware.jpg)
+
 ![App_to_Hardware](https://github.com/sneh2411/RISC-V-Based-Myth/blob/f765950e465c86ba00eef1e9cb441ff8340d7fc5/App_to_Hardware.jpg)
 
 
