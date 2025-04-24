@@ -4,7 +4,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ## Day 1 : RISC-V ISA & GNU compiler toolchain  
 
 
-  ![image](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/2c37b17f-4247-4a84-a2e1-1d5724a26c49)
+  ![image](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/2c37b17f-4247-4a84-a2e1-1d5724a26c49](https://github.com/sneh2411/RISC-V-Based-Myth/blob/8919e168c5ca06416c61a442813260dee3146a5c/pic2.png)
 
   ### DataSheet 
 
