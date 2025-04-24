@@ -9,7 +9,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ![image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/4687ff6b62ba03718a40a691b1d248140914e629/signedmaxmin.png)
 ## Day 2 : Basics of ABI (Application Binary Interface) 
 ### Simulation of C Program using Function Call
-![Image] (https://github.com/sneh2411/RISC-V-Based-Myth/blob/98720b4905286dd475febb276454bd60f4c58b9b/Simulat_C_FuncCall1.png)
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/98720b4905286dd475febb276454bd60f4c58b9b/Simulat_C_FuncCall1.png)
 
 
   ### DataSheet 
