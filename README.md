@@ -6,7 +6,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 
 ![App_to_Hardware](https://github.com/sneh2411/RISC-V-Based-Myth/blob/f765950e465c86ba00eef1e9cb441ff8340d7fc5/App_to_Hardware.jpg)
 
-![image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/8919e168c5ca06416c61a442813260dee3146a5c/pic2.png)
+![image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/4687ff6b62ba03718a40a691b1d248140914e629/signedmaxmin.png)
 ## Day 2 : Basics of ABI (Application Binary Interface) 
 
 
