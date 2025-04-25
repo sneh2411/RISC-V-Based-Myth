@@ -3,18 +3,37 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 
 ## Day 1 : RISC-V ISA & GNU compiler toolchain 
 ![Introduction](https://github.com/sneh2411/RISC-V-Based-Myth/blob/c250a8eb4c8890a9f267eb631c8255efaee4666b/Introduction.jpg)
-
 ![App_to_Hardware](https://github.com/sneh2411/RISC-V-Based-Myth/blob/f765950e465c86ba00eef1e9cb441ff8340d7fc5/App_to_Hardware.jpg)
-
 ![image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/4687ff6b62ba03718a40a691b1d248140914e629/signedmaxmin.png)
 ## Day 2 : Basics of ABI (Application Binary Interface) 
 ### Simulation of C Program using Function Call
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/98720b4905286dd475febb276454bd60f4c58b9b/Simulat_C_FuncCall1.png)
+### Simulation of C Program on RISCV CPU
+![Image]( )
+## Day3 : Digital Logic with TL-Verilog and Makerchip
+### Introduction to Makerchip
+![Image]( )
+### Combinational Circuits
+#### Vector Arrays Lab
+![Image]( )
+#### Lab on MUX
+![Image]( )
+#### Combinational Calculator
+![Image]( )
+
+![Image]( )
+
+![Image]( )
+## Day 4 : Basic RISCV CPU microarchitecture
+### Simple RISCV Microarchitecture
+![Image]( )
 
 
-  ### DataSheet 
+## Day 5 : Complete Piplined RISCV CPU Microarchitecture
+### Complete Pipeline design
+![Image]( )
 
- The datasheet of VSDSQuadron Mini is as showm as (https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/files/14395714/VSDSQMinidatasheet.pdf)
+  
 
 
 The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
@@ -140,6 +159,6 @@ Once gtkwave command is given, we get the following:
     ![synthesized_netlist](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/39c66cbc-7cb0-41b1-9f24-f0568c6b8705)
 
 ## ACKNOWLEDGEMENT
-My sincere thanks to Mr.Kunal Ghosh for providing a platform to explore the field of opensource technology in VLSI domain.
+My sincere thanks to Mr.Kunal Ghosh and  for providing a platform to explore the field of opensource technology in VLSI domain.
 
 
