@@ -31,7 +31,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ## Day 4 : Basic RISCV CPU microarchitecture
 ### Simple RISCV Microarchitecture
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/2d4d2b19b7628bb96f76ff52b7be89db34622f4b/Vizal.jpg)
-### Istruction Decode
+### Instruction Decode
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/11d181f04cb1a264786d7d39f423380d0cd0696e/Inst_decode.jpg)
 ## Day 5 : Complete Piplined RISCV CPU Microarchitecture
 ### Complete Pipeline design
