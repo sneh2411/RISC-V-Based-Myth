@@ -35,14 +35,11 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 
 ## Day 5 : Complete Piplined RISCV CPU Microarchitecture
 ### Complete Pipeline design
-![Image]( )
-
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/7b58c712a8895911a49148971effeb60e8bc2971/Final%20Pipeline%20design.jpg)
+![Image]()
   
 
 
-The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
-
-#### TASK 1: Deadline 20th Feb 2024
 
 1. Create GitHub repo. 
 2. Need to have Windows OS, 1TB HDD, 16GB RAM.
