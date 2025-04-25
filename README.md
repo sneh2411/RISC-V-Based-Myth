@@ -12,7 +12,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/d03c345b6feaa30cddbd95bc62219f11732561c5/Simulation%20ofCusing%20RISCV.png)
 ## Day3 : Digital Logic with TL-Verilog and Makerchip
 ### Introduction to Makerchip
-![Image]( )
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/2b2560c17d246f594e0fe9f378398a8977d2722e/Introduction%20to%20MakerChip.jpg)
 ### Combinational Circuits
 #### Vector Arrays Lab
 ![Image]( )
