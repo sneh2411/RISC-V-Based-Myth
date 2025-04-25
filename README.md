@@ -27,7 +27,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 #### Seqential Calculator
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/de209b9a5d628578ce775b27f59d714fae959b53/Sequential_calculator.JPG)
 #### Pipeline Calculator
-![Image]https://github.com/sneh2411/RISC-V-Based-Myth/blob/9ea5559930c5cf7c198a76f149298ebaed9df82b/Pipeline%20Calculator.jpg)
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/9ea5559930c5cf7c198a76f149298ebaed9df82b/Pipeline%20Calculator.jpg)
 ## Day 4 : Basic RISCV CPU microarchitecture
 ### Simple RISCV Microarchitecture
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/2d4d2b19b7628bb96f76ff52b7be89db34622f4b/Vizal.jpg)
