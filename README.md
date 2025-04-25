@@ -10,7 +10,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/98720b4905286dd475febb276454bd60f4c58b9b/Simulat_C_FuncCall1.png)
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/18517496319e86a3799e369c6781f84816fe15df/SimulationofCusing_2.png)
 ![Image] (https://github.com/sneh2411/RISC-V-Based-Myth/blob/0cf50cd9599edfca3e0e51d0754be28d88090b27/SimuC_Func_3.png)
-![Image] ( )
+![Image] (https://github.com/sneh2411/RISC-V-Based-Myth/blob/3ae9e7e5b7f3a919063f9250ea9c8ff1b7e7f0e3/SimulationofCusingFunccall_4.png)
 ![Image] ( )
 ### Simulation of C Program on RISCV CPU
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/d03c345b6feaa30cddbd95bc62219f11732561c5/Simulation%20ofCusing%20RISCV.png)
