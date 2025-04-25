@@ -9,7 +9,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ### Simulation of C Program using Function Call
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/98720b4905286dd475febb276454bd60f4c58b9b/Simulat_C_FuncCall1.png)
 ### Simulation of C Program on RISCV CPU
-![Image]( )
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/d03c345b6feaa30cddbd95bc62219f11732561c5/Simulation%20ofCusing%20RISCV.png)
 ## Day3 : Digital Logic with TL-Verilog and Makerchip
 ### Introduction to Makerchip
 ![Image]( )
