@@ -11,7 +11,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/18517496319e86a3799e369c6781f84816fe15df/SimulationofCusing_2.png)
 ![Image] (https://github.com/sneh2411/RISC-V-Based-Myth/blob/0cf50cd9599edfca3e0e51d0754be28d88090b27/SimuC_Func_3.png)
 ![Image] (https://github.com/sneh2411/RISC-V-Based-Myth/blob/3ae9e7e5b7f3a919063f9250ea9c8ff1b7e7f0e3/SimulationofCusingFunccall_4.png)
-![Image] ( )
+![Image] (https://github.com/sneh2411/RISC-V-Based-Myth/blob/b28a87f538cba4ff11ea36968418d66a83b56e57/SimulationoC%20using%20func_5.png)
 ### Simulation of C Program on RISCV CPU
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/d03c345b6feaa30cddbd95bc62219f11732561c5/Simulation%20ofCusing%20RISCV.png)
 ## Day3 : Digital Logic with TL-Verilog and Makerchip
