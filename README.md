@@ -19,7 +19,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/2b2560c17d246f594e0fe9f378398a8977d2722e/Introduction%20to%20MakerChip.jpg)
 ### Combinational Circuits
 #### Fibonacci series Lab
-![Image]( )
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/6db168eb40e3cd044358743b19028fc8d7e4c4c4/fibonacci.jpg)
 #### Lab on Free running Oscillator
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/fdeefbc6b36375f14a087debda3f1eb22f7f4676/free%20running%20oscillator.jpg)
 #### Combinational Calculator
