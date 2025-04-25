@@ -36,7 +36,7 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ## Day 5 : Complete Piplined RISCV CPU Microarchitecture
 ### Complete Pipeline design
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/7b58c712a8895911a49148971effeb60e8bc2971/Final%20Pipeline%20design.jpg)
-![Image]()
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/78879be95cbc8548ed9430beea608167b70e227b/Waveform_Final_Pipeline%20Design.jpg)
   
 
 
