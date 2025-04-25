@@ -20,8 +20,8 @@ A 5-day RISC-V based CPU Core Design MYTH (Microprocessor for You in Thirty Hour
 ### Combinational Circuits
 #### Vector Arrays Lab
 ![Image]( )
-#### Lab on MUX
-![Image]( )
+#### Lab on Free running Oscillator
+![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/fdeefbc6b36375f14a087debda3f1eb22f7f4676/free%20running%20oscillator.jpg)
 #### Combinational Calculator
 ![Image](https://github.com/sneh2411/RISC-V-Based-Myth/blob/b217b4a60ccd408d22752b49e71c9660d2e72408/Combinational%20Calculator.jpg)
 #### Seqential Calculator
